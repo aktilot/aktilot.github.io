@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Amanda K Tilot, PhD</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Amanda K Tilot, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Amanda Tilot</copyright>
+    <lastBuildDate>Sun, 27 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Imaging Genetics of Modern Human Brain Shape</title>
+      <link>/project/globularity/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/globularity/</guid>
+      <description>
+
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+
+&lt;p&gt;Gunz, Neubauer, Maureille &amp;amp; Hublin. &lt;a href=&#34;http://dx.doi.org/10.1016/j.cub.2010.10.018&#34; target=&#34;_blank&#34;&gt;Brain development after birth differs between Neanderthals and modern humans.&lt;/a&gt; &lt;em&gt;Curr Biol&lt;/em&gt; &lt;strong&gt;20&lt;/strong&gt;, R921-R922 (2010).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rare genetic variants &amp; synaesthesia</title>
+      <link>/project/syngenes-ngs/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/syngenes-ngs/</guid>
+      <description>
+
+&lt;p&gt;My MSCA Individual Fellowship is focused on discovering the genetic underpinnings of synaesthesia, a neurological phenomenon where stimulation of one sense causes an automatic secondary perception. In this project, I study large families that have multiple generations of synaesthetes (grandma, mom, yourself, your cousin, etc.), and look for rare genetic differences that are specific to the people with synaesthesia.&lt;/p&gt;
+
+&lt;h3 id=&#34;sound-colour-synaesthesia&#34;&gt;Sound–Colour Synaesthesia&lt;/h3&gt;
+
+&lt;p&gt;In this project, I started with three families that experience perceptions of colour when they hear sounds. We knew from a &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2668015/&#34; target=&#34;_blank&#34;&gt;prior study&lt;/a&gt; by Simon Baron-Cohen&amp;rsquo;s lab at the University of Cambridge that these families were unlikely to share the same &amp;lsquo;synaesthesia mutation&amp;rsquo; - their analysis pointed to a high degree of heterogeneity within even this single form of synaesthesia.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/syn_NGS_soundcolor.png&#34; alt=&#34;Family-based studies of synaesthesia genetics. a) Pedigrees of the three families, circles indicate females, squares refer to males, and grey shading indicates a person with synaesthesia. Blue outlines show which members had WES. b) An illustration of consistency scores over three trials for three hypothetical individuals presented with two auditory stimuli. Synaesthetes show high consistency across trials (left boxes), while non-synaesthetes are much less consistent in their colour choices (right boxes).&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I used whole-exome sequencing to identify all of the potentially-protein changing genetic differences within these families. The paper describing how we identified a set of genes whose function connects the three families is currently in submission, and I&amp;rsquo;ll be speaking about the results at a &lt;a href=&#34;https://iasasevents.com/symposium/&#34; target=&#34;_blank&#34;&gt;synaesthesia conference in LA&lt;/a&gt; this October. You can also catch the results during my poster at the Society for Neuroscience meeting in Washington DC this November.&lt;/p&gt;
+
+&lt;h3 id=&#34;grapheme-colour-synaesthesia&#34;&gt;Grapheme–Colour Synaesthesia&lt;/h3&gt;
+
+&lt;p&gt;Here, I am applying whole-genome sequencing sequencing to multiple families who experience letters and numbers as having colours (e.g. &amp;ldquo;A is a bright blue, and E is always yellow&amp;rdquo;). By studying a differnt form of synaesthesia, I can investigate whether they have anything in common at the genetic level. Many synaesthetes experience more than one form, making it likely that at least in some cases their genetics make them more succeptible to synaesthetic asssociations in general. I have also seen several families where members experience different forms of syanesthesia, further suggesting that genetic variants can broadly predispose a person to experience synaesthesia, and that other factors may shape the specific associations that form.&lt;/p&gt;
+
+&lt;h3 id=&#34;interested-a-short-reading-list&#34;&gt;Interested? A short reading list:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;General audience
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.scienceinschool.org/content/blended-senses-understanding-synaesthesia&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Blended senses: understanding synaesthesia&amp;rdquo;&lt;/a&gt;, by Amanda Tilot, in &lt;em&gt;Science in School&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.amazon.co.uk/Frog-Who-Croaked-Blue-Synesthesia/dp/0415430143/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1447939081&amp;amp;sr=1-1&amp;amp;keywords=the+frog+who+croaked+blue&#34; target=&#34;_blank&#34;&gt;The Frog Who Croaked Blue: Synaesthesia and the mixing of the senses&lt;/a&gt;&lt;/em&gt;, by Jamie Ward&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.amazon.co.uk/Wednesday-Indigo-Blue-Discovering-Synesthesia/dp/0262516705/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1447939131&amp;amp;sr=1-1&amp;amp;keywords=wednesday+is+indigo+blue+discovering+the+brain+of+synesthesia&#34; target=&#34;_blank&#34;&gt;Wednesday is Indigo Blue&lt;/a&gt;&lt;/em&gt;, by Richard Cytowic and David Eagleman&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Born-Blue-Day-Extraordinary-Autistic/dp/1416549013&#34; target=&#34;_blank&#34;&gt;Born on a Blue Day&lt;/a&gt;&lt;/em&gt;, by Daniel Tammet&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Research studies and reviews
+
+&lt;ul&gt;
+&lt;li&gt;Newell, F. N. &amp;amp; Mitchell, K. J. &lt;a href=&#34;https://doi.org/10.1016/j.neuropsychologia.2015.07.026&#34; target=&#34;_blank&#34;&gt;Multisensory integration and cross-modal learning in synaesthesia: A unifying model.&lt;/a&gt; &lt;em&gt;Neuropsychologia&lt;/em&gt; &lt;strong&gt;88&lt;/strong&gt;, 140–150 (2016).&lt;/li&gt;
+&lt;li&gt;Tomson, S. et al. &lt;a href=&#34;https://doi.org/10.1016/j.bbr.2011.03.071&#34; target=&#34;_blank&#34;&gt;The genetics of colored sequence synesthesia: Suggestive evidence of linkage to 16q and genetic heterogeneity for the condition.&lt;/a&gt; &lt;em&gt;Behav Brain Res&lt;/em&gt; &lt;strong&gt;223&lt;/strong&gt;, 48–52 (2011).&lt;/li&gt;
+&lt;li&gt;Asher, J. E. et al. &lt;a href=&#34;http://dx.doi.org/10.1016/j.ajhg.2009.01.012&#34; target=&#34;_blank&#34;&gt;A Whole-Genome Scan and Fine-Mapping Linkage Study of Auditory-Visual Synesthesia Reveals Evidence of Linkage to Chromosomes 2q24, 5q33, 6p12, and 12p12.&lt;/a&gt; * Am J Hum Genet* &lt;strong&gt;84&lt;/strong&gt;, 279–285 (2009).
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synaesthesia Genetics (SynGenes)</title>
+      <link>/project/syngenes/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/syngenes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetics of Semantic Cognition</title>
+      <link>/project/jr_family/</link>
+      <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/jr_family/</guid>
+      <description>
+
+&lt;p&gt;We all occasionally experience the &amp;ldquo;tip of the tongue&amp;rdquo; effect - where you know what you want to say, but you just can&amp;rsquo;t bring the specific word to mind. In 2012, Josie Briscoe and colleagues published the fascintating story of the JR Family, an extended pedigree where a large number of relatives experienced an extreme form of this phenomenon.&lt;/p&gt;
+
+&lt;p&gt;In the years since, DNA samples were collected for several family members, and we are now in the process of identifying genetic variants that might underlie the condition. I presented the preliminary analyses at the American Society for Human Genetics meeting in Vancouver, Canada in October 2016. The project is ongoing.&lt;/p&gt;
+
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+
+&lt;p&gt;Briscoe, J., Chilvers, R., Baldeweg, T. &amp;amp; Skuse, D. &lt;a href=&#34;http:doi.org/10.1098/rspb.2012.0894&#34; target=&#34;_blank&#34;&gt;A specific cognitive deficit within semantic cognition across a multi-generational family.&lt;/a&gt; &lt;em&gt;Proc Royal Soc Lond B Biological Sci&lt;/em&gt; &lt;strong&gt;279&lt;/strong&gt;, 3652–3661 (2012).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PTEN localization in ASD</title>
+      <link>/project/ptenm3m4/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ptenm3m4/</guid>
+      <description>
+
+&lt;h3 id=&#34;related-publications&#34;&gt;Related Publications&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tilot AK, Bebek G, Niazi F, Altemus, J, Romigh T, Frazier TW 2nd, Eng C. “Neural transcriptome of constitutional Pten dysfunction in mice and its relevance to human idiopathic autism spectrum disorder”. Molecular Psychiatry, 2016, 21(1):118-125. PMCID: PMC4565786.&lt;/li&gt;
+&lt;li&gt;Tilot AK, Frazier TW 2nd, Eng C. “Balancing proliferation and connectivity in PTEN-associated autism spectrum disorder”. Neurotherapeutics, 2015, 12(3):609-19. PMCID: PMC4489960. Review.&lt;/li&gt;
+&lt;li&gt;Frazier TW 2nd, Embacher R, Tilot AK, Koenig K, Mester J, Eng C. “Molecular and phenotypic abnormalities in individuals with germline heterozygous PTEN mutations and autism”. Molecular Psychiatry, 2015, 20(9):1132-1138. PMCID: PMC4388743.&lt;/li&gt;
+&lt;li&gt;Tilot AK, Gaugler M, Yu Q, Romigh T, Yu W, Miller RH, Frazier TW 2nd, Eng C. “Germline disruption of Pten localization causes enhanced sex-dependent social motivation and increased glial production”. Human Molecular Genetics, 2014, 23(12): 3213-27. PMCID: PMC4030776.&lt;/li&gt;
+&lt;li&gt;Mester JL, Tilot AK, Rybicki LA, Frazier TW, Eng C. “Analysis of prevalence and degree of macrocephaly in patients with germline PTEN mutations and brain weight in Pten knock-in murine model”. European Journal of Human Genetics, 2011, 19(7): 763-8. PMCID: PMC3137495.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

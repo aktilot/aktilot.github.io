@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Synaesthesia on Amanda K Tilot, PhD</title>
+    <link>/tags/synaesthesia/</link>
+    <description>Recent content in Synaesthesia on Amanda K Tilot, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Amanda Tilot</copyright>
+    <lastBuildDate>Tue, 22 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/synaesthesia/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rare genetic variants &amp; synaesthesia</title>
+      <link>/project/syngenes-ngs/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/syngenes-ngs/</guid>
+      <description>
+
+&lt;p&gt;My MSCA Individual Fellowship is focused on discovering the genetic underpinnings of synaesthesia, a neurological phenomenon where stimulation of one sense causes an automatic secondary perception. In this project, I study large families that have multiple generations of synaesthetes (grandma, mom, yourself, your cousin, etc.), and look for rare genetic differences that are specific to the people with synaesthesia.&lt;/p&gt;
+
+&lt;h3 id=&#34;sound-colour-synaesthesia&#34;&gt;Sound–Colour Synaesthesia&lt;/h3&gt;
+
+&lt;p&gt;In this project, I started with three families that experience perceptions of colour when they hear sounds. We knew from a &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2668015/&#34; target=&#34;_blank&#34;&gt;prior study&lt;/a&gt; by Simon Baron-Cohen&amp;rsquo;s lab at the University of Cambridge that these families were unlikely to share the same &amp;lsquo;synaesthesia mutation&amp;rsquo; - their analysis pointed to a high degree of heterogeneity within even this single form of synaesthesia.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/syn_NGS_soundcolor.png&#34; alt=&#34;Family-based studies of synaesthesia genetics. a) Pedigrees of the three families, circles indicate females, squares refer to males, and grey shading indicates a person with synaesthesia. Blue outlines show which members had WES. b) An illustration of consistency scores over three trials for three hypothetical individuals presented with two auditory stimuli. Synaesthetes show high consistency across trials (left boxes), while non-synaesthetes are much less consistent in their colour choices (right boxes).&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I used whole-exome sequencing to identify all of the potentially-protein changing genetic differences within these families. The paper describing how we identified a set of genes whose function connects the three families is currently in submission, and I&amp;rsquo;ll be speaking about the results at a &lt;a href=&#34;https://iasasevents.com/symposium/&#34; target=&#34;_blank&#34;&gt;synaesthesia conference in LA&lt;/a&gt; this October. You can also catch the results during my poster at the Society for Neuroscience meeting in Washington DC this November.&lt;/p&gt;
+
+&lt;h3 id=&#34;grapheme-colour-synaesthesia&#34;&gt;Grapheme–Colour Synaesthesia&lt;/h3&gt;
+
+&lt;p&gt;Here, I am applying whole-genome sequencing sequencing to multiple families who experience letters and numbers as having colours (e.g. &amp;ldquo;A is a bright blue, and E is always yellow&amp;rdquo;). By studying a differnt form of synaesthesia, I can investigate whether they have anything in common at the genetic level. Many synaesthetes experience more than one form, making it likely that at least in some cases their genetics make them more succeptible to synaesthetic asssociations in general. I have also seen several families where members experience different forms of syanesthesia, further suggesting that genetic variants can broadly predispose a person to experience synaesthesia, and that other factors may shape the specific associations that form.&lt;/p&gt;
+
+&lt;h3 id=&#34;interested-a-short-reading-list&#34;&gt;Interested? A short reading list:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;General audience
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.scienceinschool.org/content/blended-senses-understanding-synaesthesia&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Blended senses: understanding synaesthesia&amp;rdquo;&lt;/a&gt;, by Amanda Tilot, in &lt;em&gt;Science in School&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.amazon.co.uk/Frog-Who-Croaked-Blue-Synesthesia/dp/0415430143/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1447939081&amp;amp;sr=1-1&amp;amp;keywords=the+frog+who+croaked+blue&#34; target=&#34;_blank&#34;&gt;The Frog Who Croaked Blue: Synaesthesia and the mixing of the senses&lt;/a&gt;&lt;/em&gt;, by Jamie Ward&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.amazon.co.uk/Wednesday-Indigo-Blue-Discovering-Synesthesia/dp/0262516705/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1447939131&amp;amp;sr=1-1&amp;amp;keywords=wednesday+is+indigo+blue+discovering+the+brain+of+synesthesia&#34; target=&#34;_blank&#34;&gt;Wednesday is Indigo Blue&lt;/a&gt;&lt;/em&gt;, by Richard Cytowic and David Eagleman&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://www.amazon.com/Born-Blue-Day-Extraordinary-Autistic/dp/1416549013&#34; target=&#34;_blank&#34;&gt;Born on a Blue Day&lt;/a&gt;&lt;/em&gt;, by Daniel Tammet&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Research studies and reviews
+
+&lt;ul&gt;
+&lt;li&gt;Newell, F. N. &amp;amp; Mitchell, K. J. &lt;a href=&#34;https://doi.org/10.1016/j.neuropsychologia.2015.07.026&#34; target=&#34;_blank&#34;&gt;Multisensory integration and cross-modal learning in synaesthesia: A unifying model.&lt;/a&gt; &lt;em&gt;Neuropsychologia&lt;/em&gt; &lt;strong&gt;88&lt;/strong&gt;, 140–150 (2016).&lt;/li&gt;
+&lt;li&gt;Tomson, S. et al. &lt;a href=&#34;https://doi.org/10.1016/j.bbr.2011.03.071&#34; target=&#34;_blank&#34;&gt;The genetics of colored sequence synesthesia: Suggestive evidence of linkage to 16q and genetic heterogeneity for the condition.&lt;/a&gt; &lt;em&gt;Behav Brain Res&lt;/em&gt; &lt;strong&gt;223&lt;/strong&gt;, 48–52 (2011).&lt;/li&gt;
+&lt;li&gt;Asher, J. E. et al. &lt;a href=&#34;http://dx.doi.org/10.1016/j.ajhg.2009.01.012&#34; target=&#34;_blank&#34;&gt;A Whole-Genome Scan and Fine-Mapping Linkage Study of Auditory-Visual Synesthesia Reveals Evidence of Linkage to Chromosomes 2q24, 5q33, 6p12, and 12p12.&lt;/a&gt; * Am J Hum Genet* &lt;strong&gt;84&lt;/strong&gt;, 279–285 (2009).
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synaesthesia Genetics (SynGenes)</title>
+      <link>/project/syngenes/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/syngenes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
