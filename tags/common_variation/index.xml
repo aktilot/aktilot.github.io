@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Amanda Tilot</copyright>
     <lastBuildDate>Tue, 22 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/common_variation/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/tags/common_variation/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Synaesthesia Genetics (SynGenes)</title>
@@ -17,20 +19,6 @@
       
       <guid>/project/syngenes/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Imaging Genetics of Modern Human Brain Shape</title>
-      <link>/drafts/globularity/</link>
-      <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/drafts/globularity/</guid>
-      <description>
-
-&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-
-&lt;p&gt;Gunz, Neubauer, Maureille &amp;amp; Hublin. &lt;a href=&#34;http://dx.doi.org/10.1016/j.cub.2010.10.018&#34; target=&#34;_blank&#34;&gt;Brain development after birth differs between Neanderthals and modern humans.&lt;/a&gt; &lt;em&gt;Curr Biol&lt;/em&gt; &lt;strong&gt;20&lt;/strong&gt;, R921-R922 (2010).&lt;/p&gt;
-</description>
     </item>
     
   </channel>
