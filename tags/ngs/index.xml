@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ngs on Amanda K Tilot, PhD</title>
-    <link>uildFuture/tags/ngs/</link>
+    <link>/tags/ngs/</link>
     <description>Recent content in Ngs on Amanda K Tilot, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Amanda Tilot</copyright>
     <lastBuildDate>Tue, 22 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="uildFuture/tags/ngs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/ngs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rare genetic variants &amp; synaesthesia</title>
-      <link>uildFuture/project/syngenes-ngs/</link>
+      <link>/project/syngenes-ngs/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/project/syngenes-ngs/</guid>
+      <guid>/project/syngenes-ngs/</guid>
       <description>My MSCA Individual Fellowship is focused on discovering the genetic underpinnings of synaesthesia, a neurological phenomenon where stimulation of one sense causes an automatic secondary perception. In this project, I study large families that have multiple generations of synaesthetes (grandma, mom, yourself, your cousin, etc.), and look for rare genetic differences that are specific to the people with synaesthesia.
 Sound–Colour Synaesthesia In this project, I started with three families that experience perceptions of colour when they hear sounds.</description>
     </item>
     
     <item>
       <title>Genetics of Semantic Cognition</title>
-      <link>uildFuture/project/jr_family/</link>
+      <link>/project/jr_family/</link>
       <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/project/jr_family/</guid>
+      <guid>/project/jr_family/</guid>
       <description>We all occasionally experience the &amp;ldquo;tip of the tongue&amp;rdquo; effect - where you know what you want to say, but you just can&amp;rsquo;t bring the specific word to mind. In 2012, Josie Briscoe and colleagues published the fascintating story of the JR Family, an extended pedigree where a large number of relatives experienced an extreme form of this phenomenon.
 In the years since, DNA samples were collected for several family members, and we are now in the process of identifying genetic variants that might underlie the condition.</description>
     </item>
     
     <item>
       <title>PTEN localization in ASD</title>
-      <link>uildFuture/project/ptenm3m4/</link>
+      <link>/project/ptenm3m4/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/project/ptenm3m4/</guid>
+      <guid>/project/ptenm3m4/</guid>
       <description>Related Publications  Tilot AK, Bebek G, Niazi F, Altemus, J, Romigh T, Frazier TW 2nd, Eng C. “Neural transcriptome of constitutional Pten dysfunction in mice and its relevance to human idiopathic autism spectrum disorder”. Molecular Psychiatry, 2016, 21(1):118-125. PMCID: PMC4565786. Tilot AK, Frazier TW 2nd, Eng C. “Balancing proliferation and connectivity in PTEN-associated autism spectrum disorder”. Neurotherapeutics, 2015, 12(3):609-19. PMCID: PMC4489960. Review. Frazier TW 2nd, Embacher R, Tilot AK, Koenig K, Mester J, Eng C.</description>
     </item>
     

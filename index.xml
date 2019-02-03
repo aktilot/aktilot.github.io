@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amanda K Tilot, PhD on Amanda K Tilot, PhD</title>
-    <link>uildFuture/</link>
+    <link>/</link>
     <description>Recent content in Amanda K Tilot, PhD on Amanda K Tilot, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Amanda Tilot</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="uildFuture/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Unearthing the evolutionary history of genetic variants influencing human cortical surface area</title>
-      <link>uildFuture/talk/sfn-2018/</link>
+      <link>/talk/sfn-2018/</link>
       <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/talk/sfn-2018/</guid>
+      <guid>/talk/sfn-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating the relationship between grapheme-colour synaesthesia and genetic risk for neuropsychiatric disorders</title>
-      <link>uildFuture/talk/bridging-senses-2018/</link>
+      <link>/talk/bridging-senses-2018/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/talk/bridging-senses-2018/</guid>
+      <guid>/talk/bridging-senses-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rare variants in axonogenesis genes connect three families with sound–color synesthesia</title>
-      <link>uildFuture/publication/syn-rare-variants/</link>
+      <link>/publication/syn-rare-variants/</link>
       <pubDate>Mon, 05 Mar 2018 12:48:24 -0700</pubDate>
       
-      <guid>uildFuture/publication/syn-rare-variants/</guid>
+      <guid>/publication/syn-rare-variants/</guid>
       <description>
 
 &lt;h3 id=&#34;also-around-the-web&#34;&gt;Also around the web:&lt;/h3&gt;
@@ -52,28 +52,28 @@
     
     <item>
       <title>Rare Variants in Axonogenesis Genes Connect Three Families with Sound → Colour Synaesthesia</title>
-      <link>uildFuture/talk/iasas_2017/</link>
+      <link>/talk/iasas_2017/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/talk/iasas_2017/</guid>
+      <guid>/talk/iasas_2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Imaging genetics of Neanderthal brain shapes</title>
-      <link>uildFuture/talk/cognomics_2017/</link>
+      <link>/talk/cognomics_2017/</link>
       <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/talk/cognomics_2017/</guid>
+      <guid>/talk/cognomics_2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rare genetic variants &amp; synaesthesia</title>
-      <link>uildFuture/project/syngenes-ngs/</link>
+      <link>/project/syngenes-ngs/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/project/syngenes-ngs/</guid>
+      <guid>/project/syngenes-ngs/</guid>
       <description>
 
 &lt;p&gt;My MSCA Individual Fellowship is focused on discovering the genetic underpinnings of synaesthesia, a neurological phenomenon where stimulation of one sense causes an automatic secondary perception. In this project, I study large families that have multiple generations of synaesthetes (grandma, mom, yourself, your cousin, etc.), and look for rare genetic differences that are specific to the people with synaesthesia.&lt;/p&gt;
@@ -82,7 +82,7 @@
 
 &lt;p&gt;In this project, I started with three families that experience perceptions of colour when they hear sounds. We knew from a &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2668015/&#34; target=&#34;_blank&#34;&gt;prior study&lt;/a&gt; by Simon Baron-Cohen&amp;rsquo;s lab at the University of Cambridge that these families were unlikely to share the same &amp;lsquo;synaesthesia mutation&amp;rsquo; - their analysis pointed to a high degree of heterogeneity within even this single form of synaesthesia.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;uildFuture/img/syn_NGS_soundcolor.png&#34; alt=&#34;Family-based studies of synaesthesia genetics. a) Pedigrees of the three families, circles indicate females, squares refer to males, and grey shading indicates a person with synaesthesia. Blue outlines show which members had WES. b) An illustration of consistency scores over three trials for three hypothetical individuals presented with two auditory stimuli. Synaesthetes show high consistency across trials (left boxes), while non-synaesthetes are much less consistent in their colour choices (right boxes).&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/syn_NGS_soundcolor.png&#34; alt=&#34;Family-based studies of synaesthesia genetics. a) Pedigrees of the three families, circles indicate females, squares refer to males, and grey shading indicates a person with synaesthesia. Blue outlines show which members had WES. b) An illustration of consistency scores over three trials for three hypothetical individuals presented with two auditory stimuli. Synaesthetes show high consistency across trials (left boxes), while non-synaesthetes are much less consistent in their colour choices (right boxes).&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I used whole-exome sequencing to identify all of the potentially-protein changing genetic differences within these families. The paper describing how we identified a set of genes whose function connects the three families is currently in submission, and I&amp;rsquo;ll be speaking about the results at a &lt;a href=&#34;https://iasasevents.com/symposium/&#34; target=&#34;_blank&#34;&gt;synaesthesia conference in LA&lt;/a&gt; this October. You can also catch the results during my poster at the Society for Neuroscience meeting in Washington DC this November.&lt;/p&gt;
 
@@ -115,19 +115,19 @@
     
     <item>
       <title>Synaesthesia Genetics (SynGenes)</title>
-      <link>uildFuture/project/syngenes/</link>
+      <link>/project/syngenes/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/project/syngenes/</guid>
+      <guid>/project/syngenes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genetics of Semantic Cognition</title>
-      <link>uildFuture/project/jr_family/</link>
+      <link>/project/jr_family/</link>
       <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/project/jr_family/</guid>
+      <guid>/project/jr_family/</guid>
       <description>
 
 &lt;p&gt;We all occasionally experience the &amp;ldquo;tip of the tongue&amp;rdquo; effect - where you know what you want to say, but you just can&amp;rsquo;t bring the specific word to mind. In 2012, Josie Briscoe and colleagues published the fascintating story of the JR Family, an extended pedigree where a large number of relatives experienced an extreme form of this phenomenon.&lt;/p&gt;
@@ -142,10 +142,10 @@
     
     <item>
       <title>Imaging Genetics of Modern Human Brain Shape</title>
-      <link>uildFuture/project/globularity/</link>
+      <link>/project/globularity/</link>
       <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/project/globularity/</guid>
+      <guid>/project/globularity/</guid>
       <description>
 
 &lt;h3 id=&#34;in-the-news&#34;&gt;In the news:&lt;/h3&gt;
@@ -174,37 +174,37 @@
     
     <item>
       <title>Neural transcriptome of constitutional Pten dysfunction in mice and its relevance to human idiopathic autism spectrum disorder.</title>
-      <link>uildFuture/publication/ptenm3m4_transcriptome/</link>
+      <link>/publication/ptenm3m4_transcriptome/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/publication/ptenm3m4_transcriptome/</guid>
+      <guid>/publication/ptenm3m4_transcriptome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular and phenotypic abnormalities in individuals with germline heterozygous PTEN mutations and autism.</title>
-      <link>uildFuture/publication/phts_whitematter/</link>
+      <link>/publication/phts_whitematter/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/publication/phts_whitematter/</guid>
+      <guid>/publication/phts_whitematter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Balancing Proliferation and Connectivity in PTEN-associated Autism Spectrum Disorder.</title>
-      <link>uildFuture/publication/ptenasd_review_2015/</link>
+      <link>/publication/ptenasd_review_2015/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/publication/ptenasd_review_2015/</guid>
+      <guid>/publication/ptenasd_review_2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PTEN localization in ASD</title>
-      <link>uildFuture/project/ptenm3m4/</link>
+      <link>/project/ptenm3m4/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/project/ptenm3m4/</guid>
+      <guid>/project/ptenm3m4/</guid>
       <description>
 
 &lt;h3 id=&#34;related-publications&#34;&gt;Related Publications&lt;/h3&gt;
@@ -221,10 +221,10 @@
     
     <item>
       <title>Germline disruption of Pten localization causes enhanced sex-dependent social motivation and increased glial production.</title>
-      <link>uildFuture/publication/ptenm3m4_hmg/</link>
+      <link>/publication/ptenm3m4_hmg/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/publication/ptenm3m4_hmg/</guid>
+      <guid>/publication/ptenm3m4_hmg/</guid>
       <description></description>
     </item>
     

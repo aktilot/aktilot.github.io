@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Synaesthesia on Amanda K Tilot, PhD</title>
-    <link>uildFuture/tags/synaesthesia/</link>
+    <link>/tags/synaesthesia/</link>
     <description>Recent content in Synaesthesia on Amanda K Tilot, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Amanda Tilot</copyright>
     <lastBuildDate>Tue, 22 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="uildFuture/tags/synaesthesia/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/synaesthesia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rare genetic variants &amp; synaesthesia</title>
-      <link>uildFuture/project/syngenes-ngs/</link>
+      <link>/project/syngenes-ngs/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/project/syngenes-ngs/</guid>
+      <guid>/project/syngenes-ngs/</guid>
       <description>My MSCA Individual Fellowship is focused on discovering the genetic underpinnings of synaesthesia, a neurological phenomenon where stimulation of one sense causes an automatic secondary perception. In this project, I study large families that have multiple generations of synaesthetes (grandma, mom, yourself, your cousin, etc.), and look for rare genetic differences that are specific to the people with synaesthesia.
 Sound–Colour Synaesthesia In this project, I started with three families that experience perceptions of colour when they hear sounds.</description>
     </item>
     
     <item>
       <title>Synaesthesia Genetics (SynGenes)</title>
-      <link>uildFuture/project/syngenes/</link>
+      <link>/project/syngenes/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>uildFuture/project/syngenes/</guid>
+      <guid>/project/syngenes/</guid>
       <description></description>
     </item>
     
