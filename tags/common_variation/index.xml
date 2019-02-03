@@ -2,23 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Common_variation on Amanda K Tilot, PhD</title>
-    <link>/tags/common_variation/</link>
+    <link>uildFuture/tags/common_variation/</link>
     <description>Recent content in Common_variation on Amanda K Tilot, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Amanda Tilot</copyright>
     <lastBuildDate>Tue, 22 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/common_variation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="uildFuture/tags/common_variation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Synaesthesia Genetics (SynGenes)</title>
-      <link>/project/syngenes/</link>
+      <link>uildFuture/project/syngenes/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/syngenes/</guid>
+      <guid>uildFuture/project/syngenes/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Imaging Genetics of Modern Human Brain Shape</title>
+      <link>uildFuture/project/globularity/</link>
+      <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>uildFuture/project/globularity/</guid>
+      <description>In the news: New York Times
+CNN
+Science
+Nature
+LiveScience
+Forbes
+The Independent
+Psychology Today
+References Gunz, Neubauer, Maureille &amp;amp; Hublin. Brain development after birth differs between Neanderthals and modern humans. Curr Biol 20, R921-R922 (2010).</description>
     </item>
     
   </channel>

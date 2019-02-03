@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Amanda K Tilot, PhD</title>
-    <link>/talk/</link>
+    <link>uildFuture/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Amanda K Tilot, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Amanda Tilot</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="uildFuture/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Unearthing the evolutionary history of genetic variants influencing human cortical surface area</title>
-      <link>/talk/sfn-2018/</link>
+      <link>uildFuture/talk/sfn-2018/</link>
       <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/talk/sfn-2018/</guid>
+      <guid>uildFuture/talk/sfn-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating the relationship between grapheme-colour synaesthesia and genetic risk for neuropsychiatric disorders</title>
-      <link>/talk/bridging-senses-2018/</link>
+      <link>uildFuture/talk/bridging-senses-2018/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/talk/bridging-senses-2018/</guid>
+      <guid>uildFuture/talk/bridging-senses-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rare Variants in Axonogenesis Genes Connect Three Families with Sound → Colour Synaesthesia</title>
-      <link>/talk/iasas_2017/</link>
+      <link>uildFuture/talk/iasas_2017/</link>
       <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/iasas_2017/</guid>
+      <guid>uildFuture/talk/iasas_2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Imaging genetics of Neanderthal brain shapes</title>
-      <link>/talk/cognomics_2017/</link>
+      <link>uildFuture/talk/cognomics_2017/</link>
       <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/cognomics_2017/</guid>
+      <guid>uildFuture/talk/cognomics_2017/</guid>
       <description></description>
     </item>
     

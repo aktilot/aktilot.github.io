@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Amanda K Tilot, PhD</title>
-    <link>/tags/</link>
+    <link>uildFuture/tags/</link>
     <description>Recent content in Tags on Amanda K Tilot, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Amanda Tilot</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="uildFuture/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>/tags/academic/</link>
+      <link>uildFuture/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>uildFuture/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
       <title>Common_variation</title>
-      <link>/tags/common_variation/</link>
+      <link>uildFuture/tags/common_variation/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/common_variation/</guid>
+      <guid>uildFuture/tags/common_variation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ngs</title>
-      <link>/tags/ngs/</link>
+      <link>uildFuture/tags/ngs/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ngs/</guid>
+      <guid>uildFuture/tags/ngs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synaesthesia</title>
-      <link>/tags/synaesthesia/</link>
+      <link>uildFuture/tags/synaesthesia/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/synaesthesia/</guid>
+      <guid>uildFuture/tags/synaesthesia/</guid>
       <description></description>
     </item>
     

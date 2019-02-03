@@ -2,51 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Amanda K Tilot, PhD</title>
-    <link>/project/</link>
+    <link>uildFuture/project/</link>
     <description>Recent content in Projects on Amanda K Tilot, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Amanda Tilot</copyright>
     <lastBuildDate>Tue, 22 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="uildFuture/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rare genetic variants &amp; synaesthesia</title>
-      <link>/project/syngenes-ngs/</link>
+      <link>uildFuture/project/syngenes-ngs/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/syngenes-ngs/</guid>
+      <guid>uildFuture/project/syngenes-ngs/</guid>
       <description>My MSCA Individual Fellowship is focused on discovering the genetic underpinnings of synaesthesia, a neurological phenomenon where stimulation of one sense causes an automatic secondary perception. In this project, I study large families that have multiple generations of synaesthetes (grandma, mom, yourself, your cousin, etc.), and look for rare genetic differences that are specific to the people with synaesthesia.
 Sound–Colour Synaesthesia In this project, I started with three families that experience perceptions of colour when they hear sounds.</description>
     </item>
     
     <item>
       <title>Synaesthesia Genetics (SynGenes)</title>
-      <link>/project/syngenes/</link>
+      <link>uildFuture/project/syngenes/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/syngenes/</guid>
+      <guid>uildFuture/project/syngenes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genetics of Semantic Cognition</title>
-      <link>/project/jr_family/</link>
+      <link>uildFuture/project/jr_family/</link>
       <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/jr_family/</guid>
+      <guid>uildFuture/project/jr_family/</guid>
       <description>We all occasionally experience the &amp;ldquo;tip of the tongue&amp;rdquo; effect - where you know what you want to say, but you just can&amp;rsquo;t bring the specific word to mind. In 2012, Josie Briscoe and colleagues published the fascintating story of the JR Family, an extended pedigree where a large number of relatives experienced an extreme form of this phenomenon.
 In the years since, DNA samples were collected for several family members, and we are now in the process of identifying genetic variants that might underlie the condition.</description>
     </item>
     
     <item>
+      <title>Imaging Genetics of Modern Human Brain Shape</title>
+      <link>uildFuture/project/globularity/</link>
+      <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>uildFuture/project/globularity/</guid>
+      <description>In the news: New York Times
+CNN
+Science
+Nature
+LiveScience
+Forbes
+The Independent
+Psychology Today
+References Gunz, Neubauer, Maureille &amp;amp; Hublin. Brain development after birth differs between Neanderthals and modern humans. Curr Biol 20, R921-R922 (2010).</description>
+    </item>
+    
+    <item>
       <title>PTEN localization in ASD</title>
-      <link>/project/ptenm3m4/</link>
+      <link>uildFuture/project/ptenm3m4/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/project/ptenm3m4/</guid>
+      <guid>uildFuture/project/ptenm3m4/</guid>
       <description>Related Publications  Tilot AK, Bebek G, Niazi F, Altemus, J, Romigh T, Frazier TW 2nd, Eng C. “Neural transcriptome of constitutional Pten dysfunction in mice and its relevance to human idiopathic autism spectrum disorder”. Molecular Psychiatry, 2016, 21(1):118-125. PMCID: PMC4565786. Tilot AK, Frazier TW 2nd, Eng C. “Balancing proliferation and connectivity in PTEN-associated autism spectrum disorder”. Neurotherapeutics, 2015, 12(3):609-19. PMCID: PMC4489960. Review. Frazier TW 2nd, Embacher R, Tilot AK, Koenig K, Mester J, Eng C.</description>
     </item>
     
